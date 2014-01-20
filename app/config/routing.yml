@@ -1,0 +1,5 @@
+app_shed_extensions_menu:
+    resource: "@AppShedExtensionsMenuBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
